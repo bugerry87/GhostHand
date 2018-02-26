@@ -20,19 +20,19 @@
 		<Parameter NAME="PALM_LFT_Y" VALUE="20" PRIOR="20" SD="0" HIDDEN="false"/>
 		<Parameter NAME="PALM_LFT_Z" VALUE="50" PRIOR="50" SD="0" HIDDEN="false"/>
 		<Parameter NAME="THUMB_X" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
-		<Parameter NAME="THUMB_Y" VALUE="0" PRIOR="15" SD="0" HIDDEN="false"/>
+		<Parameter NAME="THUMB_Y" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="THUMB_Z" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="INDEX_X" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
-		<Parameter NAME="INDEX_Y" VALUE="0" PRIOR="15" SD="0" HIDDEN="false"/>
+		<Parameter NAME="INDEX_Y" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="INDEX_Z" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="MIDDLE_X" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
-		<Parameter NAME="MIDDLE_Y" VALUE="0" PRIOR="15" SD="0" HIDDEN="false"/>
+		<Parameter NAME="MIDDLE_Y" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="MIDDLE_Z" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="RING_X" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
-		<Parameter NAME="RING_Y" VALUE="0" PRIOR="15" SD="0" HIDDEN="false"/>
+		<Parameter NAME="RING_Y" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="RING_Z" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="PINKY_X" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
-		<Parameter NAME="PINKY_Y" VALUE="0" PRIOR="15" SD="0" HIDDEN="false"/>
+		<Parameter NAME="PINKY_Y" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 		<Parameter NAME="PINKY_Z" VALUE="0" PRIOR="0" SD="0" HIDDEN="false"/>
 	</Parameters>
 	<Skeleton RGB="93 93 93">
